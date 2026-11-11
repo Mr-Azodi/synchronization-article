@@ -1,4 +1,4 @@
-# Practice 5
+# Practice 6
 
 ## Folder 'EN Synchronization Article'
 - synchronization_article_EN.docx
